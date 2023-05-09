@@ -17,5 +17,6 @@
    - хост - 127.0.0.1;
    - порт - 5431;
    - база и учетная запись - как в .env-файле.
+   ![image](https://github.com/ilyava1/Asyncio/assets/98491946/b5a28c5c-4fcb-4888-8f11-5aed0699ae2e)
 4. Завершить работу и удалить созданный контейнер: docker-compose down.
    Сообщение вида "Container 2023_0421_acyncio-db-1   Removed" подтвердит удаление контейнера.
